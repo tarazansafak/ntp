@@ -1,0 +1,3 @@
+fixtures:
+  repositories:
+    ntp: "https://github.com/tarazansafak/ntp.git"
